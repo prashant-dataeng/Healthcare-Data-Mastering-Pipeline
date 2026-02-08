@@ -20,14 +20,17 @@ This project is a personal end-to-end implementation of a healthcare data pipeli
 #### 📈 Execution Results
 
 After the pipeline runs, it generates an automated HTML report. This gives me a high-level view of the data health immediately.
+ **HTML Report**
 
 <img width="500" height="699" alt="image" src="https://github.com/user-attachments/assets/53580e23-4936-4ee6-8519-ab05e319f9e0" />
 
-<img width="500" height="857" alt="image" src="https://github.com/user-attachments/assets/a2e7a884-8f93-4ad1-8462-5c271c3b3122" />
 
-Crawler-
+**Crawler**
+
+
 <img width="500" height="797" alt="image" src="https://github.com/user-attachments/assets/9c09216b-71be-4e1e-8a15-2f6ffa1f56ef" />
 
-Athena-
-Table
+**Athena**
+
+
 <img width="500" height="822" alt="image" src="https://github.com/user-attachments/assets/906854dc-33f4-4d32-8eb8-fddc8f73f843" />
