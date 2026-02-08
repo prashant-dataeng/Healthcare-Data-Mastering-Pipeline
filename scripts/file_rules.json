@@ -1,0 +1,8 @@
+{
+  "NVS_LEAP_CASE": {
+    "file_type": "INCREMENTAL",
+    "expected_columns": 15,
+    "primary_key": "spp_pat_id",
+    "delimiter": "|"
+  }
+}
